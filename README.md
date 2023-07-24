@@ -1,6 +1,11 @@
 # Image-Restoration-App-using-opencv-and-streamlit
 This repository contains a simple application to demonstrate image inpainting using Streamlit, a popular Python library for building web applications for data science and machine learning projects.
 
+
+![Alt Text](https://github.com/Nasreddine-EL-MAMMERI/image-restoration-app/blob/master/inPaint_output2.jpg?raw=true)
+
+![Alt Text](https://github.com/Nasreddine-EL-MAMMERI/image-restoration-app/blob/master/inPaint_output1.jpg?raw=true)
+
 # Overview
 Image inpainting is a technique used to restore missing or damaged parts of an image. This application allows users to upload an image and use a brush to mark the areas they want to restore. The application provides two inpainting algorithms - Telea and NS (Navier-Stokes). Users can select the algorithm and view the inpainted results in real-time.
 
